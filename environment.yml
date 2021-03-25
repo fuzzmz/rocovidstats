@@ -1,0 +1,12 @@
+name: rocovidstats-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - jupyterlab
+  - altair
+  - vega_datasets
+  - matplotlib
+  - xlrd
+  - openpyxl
